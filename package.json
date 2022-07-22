@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "budget-app",
+  "description": "Heroku Deploy",
+  "version": "1.0.0",
+  "engines": {
+  "node":"16.16.0"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HC-Guerrero/budget-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HC-Guerrero/budget-app/issues"
+  },
+  "homepage": "https://github.com/HC-Guerrero/budget-app#readme"
+}
